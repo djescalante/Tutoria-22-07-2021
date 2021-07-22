@@ -1,14 +1,13 @@
-## Getting Started
+Temas tratados Tutoría 22-07-2021
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. POO (Programación Orientada a Objetos)
+2. Encapsulación
+3. Constructores
+4. Clases
+5. Objetos
+6. Atributos
+7. Metodos
+8. Modificadores
 
-## Folder Structure
+Link del código: https://github.com/learnigPandJ/Tutoria-22-07-2021.git
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
